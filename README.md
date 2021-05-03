@@ -12,7 +12,7 @@ This is offline music player android app
 ### Audago Music Version 1.3.0
 
 <a href="https://github.com/tuhinsubhrahazra/Audago-Music/blob/master/Audago%20Music%20V1.3.0%20.apk" target="_blank"><img src="https://github.com/tuhinsubhrahazra/Audago-Music/blob/master/download-icon-png-4384.png" 
-alt="Shuffler Demo" width="240" height="180" border="10" /></a>
+alt="" width="240" height="180" border="10" /></a>
 
 <h3>Screenshots</h3>
 
