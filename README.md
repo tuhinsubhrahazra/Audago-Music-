@@ -32,7 +32,7 @@ alt="" width="240" height="180" border="10" /></a>
 </div>
 
 <div class="row">
-      <img src="/Screenshot_2021-05-03-18-12-08-459_com.tuhin.audagomusic.jpg" width="250" title="App Drawer">
+      <img src="/ScreenShots/Screenshot_2021-05-03-18-12-08-459_com.tuhin.audagomusic.jpg" width="250" title="App Drawer">
       <img src="/ScreenShots/Screenshot_2021-05-03-17-08-17-361_com.tuhin.audagomusic.jpg" width="250" title="Setting">
       <img src="/ScreenShots/Screenshot_2021-05-03-17-07-42-428_com.tuhin.audagomusic.jpg" width="250" title="Equalizer">
 </div>
