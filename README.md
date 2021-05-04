@@ -1,6 +1,9 @@
 # Audago-Music-
 This is offline music player android app
 
+<img src="namelogo2.png" width="250" title="logo">
+<img src="logo2.png" width="250" title="logo">
+
 ## App info 
   * Version :  1.3.0
   * Updated on :  3-May-2021
