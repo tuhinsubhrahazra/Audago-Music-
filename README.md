@@ -14,7 +14,7 @@ This is offline music player android app
 
 ### Audago Music Version 1.3.0
 
-<a href="https://github.com/tuhinsubhrahazra/Audago-Music-/releases/tag/1.3.0" target="_blank"><img src="https://github.com/tuhinsubhrahazra/Audago-Music-/blob/main/download-icon-png-4384.png" 
+<a href="https://github.com/tuhinsubhrahazra/Audago-Music-/releases/tag/1.3.0" target="_blank"><img src="https://github.com/tuhinsubhrahazra/Audago-Music-/blob/main/get-it-on-github.png" 
 alt="" width="240" height="180" border="10" /></a>
 
 <h3>Screenshots</h3>
