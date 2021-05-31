@@ -5,9 +5,9 @@ This is offline music player android app
 <img src="namelogo2.png" width="250" title="logo">
 
 ## App info 
-  * Version :  1.3.0
-  * Updated on :  3-May-2021
-  * Download size : 12.38 MB
+  * Version :  1.4.0
+  * Updated on :  1-Jun-2021
+  * Download size : 12.47 MB
   * Released on 3-May-2021 
   
 # Download App
